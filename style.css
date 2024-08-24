@@ -1,0 +1,13 @@
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+li{
+    color:blanchedalmond
+}
+h1{
+    color:whitesmoke
+}
